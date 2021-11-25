@@ -1,0 +1,32 @@
+body {
+    background-color:rgb(107, 139, 107); 
+    color:black; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-size:14px; 
+    font-weight:light; 
+}
+h3 {
+    background-color:rgb(107, 139, 107); 
+    color:whitesmoke; 
+    font-family: 'Courier New', Courier, monospace; 
+    font: size 16px;
+    font-weight:light; 
+}
+p{background-color:white; 
+    color:black; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-size:12px; 
+    font-weight:light;}
+nav, li{background-color:white; 
+    color:rgb(4, 58, 4); 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-size:14px; 
+    font-weight:light;}
+header,nav { text-align: center;}
+section {text-align: justify;}
+header, nav, section { margin: 20px; }
+header, nav, section { padding: 5px; }
+nav { margin-right: 520px;}
+nav { margin-left:520px;}
+li { margin-right:1250px;}
+
